@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinashia
 - 👀 I’m interested in take photos and travel
-- 🌱 I’m currently learning html css javascript
+- 🌱 I’m currently learning html/css/javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
