@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alvinashia
-- 👀 I’m interested in take photos and travel
 
 ### My Works
 
