@@ -8,7 +8,7 @@
 - [x] RWD
 - [X] Bootstrap
 - [X] HTML
-https://japantravel-bootstrap-test.netlify.app/
+:arrow_right: https://japantravel-bootstrap-test.netlify.app/
 
 2. Simple Vtuber introduce page
 - [x] RWD
@@ -20,7 +20,7 @@ https://luxiem-tailwind-test.netlify.app/
 - [x] RWD
 - [x] CSS
 - [X] HTML
-https://history-rwd-practice.netlify.app/
+:arrow_right: https://history-rwd-practice.netlify.app/
 *(origin:https://storystudio.tw/)*
 
 
