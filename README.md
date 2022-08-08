@@ -8,19 +8,19 @@
 - [x] RWD
 - [X] Bootstrap
 - [X] HTML
-:arrow_right: https://japantravel-bootstrap-test.netlify.app/
+- :arrow_right: https://japantravel-bootstrap-test.netlify.app/
 
 2. Simple Vtuber introduce page
 - [x] RWD
 - [X] Tailwind
 - [X] HTML
-https://luxiem-tailwind-test.netlify.app/
+- :arrow_right: https://luxiem-tailwind-test.netlify.app/
 
 3. Flex layout practice
 - [x] RWD
 - [x] CSS
 - [X] HTML
-:arrow_right: https://history-rwd-practice.netlify.app/
+- :arrow_right: https://history-rwd-practice.netlify.app/
 *(origin:https://storystudio.tw/)*
 
 
