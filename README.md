@@ -16,7 +16,7 @@ https://japantravel-bootstrap-test.netlify.app/
 - [X] HTML
 https://luxiem-tailwind-test.netlify.app/
 
-3. flex layout practice
+3.flex layout practice
 - [x] RWD
 - [x] CSS
 - [X] HTML
