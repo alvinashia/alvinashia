@@ -4,24 +4,25 @@
 
 - :bookmark_tabs: Published
 
-1.Japan travel Website (interface)
+1. Japan travel Website (interface)
 - [x] RWD
 - [X] Bootstrap
 - [X] HTML
 https://japantravel-bootstrap-test.netlify.app/
 
-2.Simple Vtuber introduce page
+2. Simple Vtuber introduce page
 - [x] RWD
 - [X] Tailwind
 - [X] HTML
 https://luxiem-tailwind-test.netlify.app/
 
-3.flex layout practice
+3. Flex layout practice
 - [x] RWD
 - [x] CSS
 - [X] HTML
 https://history-rwd-practice.netlify.app/
-(origin:https://storystudio.tw/)
+*(origin:https://storystudio.tw/)*
+
 
 
 - :bookmark_tabs: Still Working
