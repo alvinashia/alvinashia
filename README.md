@@ -1,6 +1,38 @@
 - 👋 Hi, I’m @alvinashia
 - 👀 I’m interested in take photos and travel
-- 🌱 I’m currently learning html/css/javascript/PHP/jQuery
+
+### My Works
+
+- :bookmark_tabs: Published
+
+1.Japan travel Website (interface)
+- [x] RWD
+- [X] Bootstrap
+- [X] HTML
+https://japantravel-bootstrap-test.netlify.app/
+
+2.Simple Vtuber introduce page
+- [x] RWD
+- [X] Tailwind
+- [X] HTML
+https://luxiem-tailwind-test.netlify.app/
+
+3. flex layout practice
+- [x] RWD
+- [x] CSS
+- [X] HTML
+https://history-rwd-practice.netlify.app/
+(origin:https://storystudio.tw/)
+
+
+- :bookmark_tabs: Still Working
+
+1.Camping site (Shuyoung)
+- [x] RWD
+- [x] React
+- [x] SCSS
+- [x] CSS
+- [X] HTML
 
 <!---
 alvinashia/alvinashia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
