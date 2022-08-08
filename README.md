@@ -20,12 +20,10 @@
 - [x] RWD
 - [x] CSS
 - [X] HTML
-- :arrow_right: https://history-rwd-practice.netlify.app/
+- :arrow_right: https://history-rwd-practice.netlify.app/ <br>
 *(origin:https://storystudio.tw/)*
-
-
-
-####:bookmark_tabs: **Still Working**
+<br>
+:bookmark_tabs: **Still Working**
 
 1.Camping site (Shuyoung)
 - [x] RWD
