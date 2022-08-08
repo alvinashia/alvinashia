@@ -1,4 +1,3 @@
-👋 Hi, I’m @alvinashia <br>  
 :hibiscus: Welcome to my little garden 
 
 ### My Works
