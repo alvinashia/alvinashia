@@ -22,7 +22,6 @@
    - [X] HTML
 
 4. [Camping map entrance](https://final-react-shuyoung.vercel.app/)<br>
-***The pictures can not display on the Versel :(  I am trying to fix this problem now.***
 - Make a camping map with a lovely vector picture & animation
    - [x] RWD
    - [x] React
