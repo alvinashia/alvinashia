@@ -12,7 +12,7 @@
    - [X] Tailwind
    - [X] HTML
 
-3. [Flex layout practice](https://history-rwd-practice.netlify.app/)
+3. [HistoryStudio Flex layout practice](https://history-rwd-practice.netlify.app/)
    - [x] RWD
    - [x] CSS
    - [X] HTML
