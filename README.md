@@ -15,6 +15,7 @@
 3. [HistoryStudio Flex layout practice](https://history-rwd-practice.netlify.app/)
    - [x] RWD
    - [x] CSS
+   - [x] jQuery
    - [X] HTML
 
 4. [Camping map entrance](https://final-react-shuyoung.vercel.app/)
