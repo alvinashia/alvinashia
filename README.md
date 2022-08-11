@@ -23,7 +23,6 @@
 
 4. [Camping map entrance](https://final-react-shuyoung.vercel.app/)<br>
 - Make a camping map with a lovely vector picture & animation
-   - [x] RWD
    - [x] React
    - [x] SCSS
    - [x] CSS
